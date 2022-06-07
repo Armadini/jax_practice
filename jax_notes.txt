@@ -1,0 +1,12 @@
+Jax Notes
+
+What has been hard?
+- Making statically defined functions dynamic to data shape
+  and model shape...
+- Passing random key is annoying
+- Having to define structure of pytree
+    > This would be realllllllyyy annoying with large models
+
+
+- Tool to scan for sequences of identical random numbers 
+
